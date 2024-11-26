@@ -1,0 +1,178 @@
+body {
+  width: 500px;
+
+  margin: 100px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 75px;
+  font-size: 23px;
+  background-color: #8ca69f;
+}
+html {
+  background-color: #bfffef;
+}
+
+#but {
+  color: white;
+  background: rgb(48, 78, 2);
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#dark {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+hr {
+  border: 1px solid #708f87;
+}
+
+#radius {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #708f87;
+  font-size: 20px;
+}
+
+#dark {
+  background-color: black;
+  color: white;
+}
+/* left */
+#stripe {
+  position: absolute;
+  top: 140px;
+  left: 0px;
+  color: #8ca69f;
+  background-color: #8ca69f;
+  border: 10px groove black;
+  width: 690px;
+  height: 70px;
+}
+
+#striper {
+  position: absolute;
+  top: 350px;
+  left: 0px;
+
+  background-color: #8ca69f;
+  color: #8ca69f;
+  border: 10px groove black;
+  width: 690px;
+  height: 70px;
+}
+
+#stripy {
+  position: absolute;
+  top: 540px;
+  left: 0px;
+
+  background-color: #8ca69f;
+  color: #8ca69f;
+  border: 10px groove black;
+  width: 690px;
+  height: 70px;
+}
+/* right */
+#striped {
+  position: absolute;
+  top: 140px;
+  right: 0px;
+
+  background-color: #8ca69f;
+  color: #8ca69f;
+  border: 10px groove black;
+  width: 690px;
+  height: 70px;
+}
+
+#stripes {
+  position: absolute;
+  top: 350px;
+  right: 0px;
+
+  background-color: #8ca69f;
+  color: #8ca69f;
+  border: 10px groove black;
+  width: 690px;
+  height: 70px;
+}
+
+#stripest {
+  position: absolute;
+  top: 540px;
+  right: 0px;
+
+  background-color: #8ca69f;
+  color: #8ca69f;
+  border: 10px groove black;
+  width: 690px;
+  height: 70px;
+}
+
+#linky {
+  text-decoration: none;
+  color: black;
+}
+
+#warn {
+  font-size: 15;
+}
+
+#brighten {
+  background-color: white;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+#test {
+  position: absolute;
+  right: 120px;
+  top: 100px;
+  background-color: #8ca69f;
+  height: 500px;
+  padding: 30px;
+  color: black;
+  width: 500px;
+
+  margin: 100px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 75px;
+}
+#testing {
+  position: absolute;
+  right: 210px;
+  top: 300px;
+}
+
+#volimg {
+  position: absolute;
+  right: 260px;
+  top: 360px;
+}
+
+#testy {
+  position: absolute;
+  right: 300px;
+  top: 550px;
+}
+
+#moreTest {
+  position: absolute;
+  right: 270px;
+  top: 630px;
+}
+
+#lotsOfTests {
+  position: absolute;
+  right: 360px;
+  top: 630px;
+}
